@@ -31,7 +31,7 @@ xhr.onload = function() {
 	}
 };
 	// Prepare the request
-		xhr.open('GET', 'https://barrycumbie.github.io/cis-376/scripts/dev10-data.json', true);
+		xhr.open('GET','https://barrycumbie.github.io/cis-376/scripts/dev10-data.json', true);
 	
 	// Send the request
 	xhr.send(null);                                 
